@@ -11,7 +11,13 @@ Tools: Python, Pandas, NumPy, Matplotlib
 ### California Hospital Inpatient Payer Mix Analysis (SQL + Python)
 SQL-based analysis of how hospital inpatient care is paid for across
 California counties from 2012 to 2024, using HCAI public discharge data.
-Tools: SQL (pandasql), Python, Pandas, Matplotlib
+Tools: SQL (pandasql), Python, Pandas, Matplotlib, Tableau
+
+### California Hospital Medi-Cal Rate Prediction Model (Machine Learning)
+Random Forest classifier predicting county-level Medi-Cal utilization using 
+demographic and hospital discharge data. 91% cross-validation accuracy across 
+57 California counties.
+Tools: Python, SQL, Scikit-learn, Pandas, Matplotlib
 
 ---
 
