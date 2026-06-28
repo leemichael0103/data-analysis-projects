@@ -1,5 +1,7 @@
 # California Hospital Inpatient Payer Mix Analysis
 
+Live Dashboard: https://public.tableau.com/app/profile/michael.lee6058/viz/CaliforniaHospitalInpatientPayerMix/CaliforniaHospitalInpatientPayerMixDashboard
+
 SQL-based analysis of how hospital inpatient care is paid for across California counties, using HCAI public patient discharge data from 2012 to 2024.
 
 ## Key Questions
