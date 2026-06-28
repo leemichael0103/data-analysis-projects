@@ -8,6 +8,11 @@ A portfolio of data analysis projects by Michael Lee, B.S. Physics, UC Davis 202
 Analysis of 2023 EPA air quality monitoring data across California's Sacramento Valley and San Joaquin Valley. Examines which counties have the most unhealthy air days, how the two air basins compare, and what the data reveals about the scale of California's nonattainment challenge under the Clean Air Act.
 Tools: Python, Pandas, NumPy, Matplotlib
 
+### California Hospital Inpatient Payer Mix Analysis (SQL + Python)
+SQL-based analysis of how hospital inpatient care is paid for across
+California counties from 2012 to 2024, using HCAI public discharge data.
+Tools: SQL (pandasql), Python, Pandas, Matplotlib
+
 ---
 
 ## Contact
